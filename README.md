@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wojtek</h1>
 <h3 align="center">A passionate FullStack Developer </h3>
 
-- 🔭 I’m currently working on **Automatic Sauce Dispenser**
+- 🔭 I’m currently working on **4 stroke engine simulation**
 
 - 🌱 I’m currently learning **Spring Boot**
 
