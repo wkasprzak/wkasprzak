@@ -1,6 +1,6 @@
 # Hi 👋, I'm Wojtek! 
-👩🏻‍💻 A passionate Fullstack Developer <br/>
-👩🏻‍🎓 3rd year student of Computer Science at the Poznan University of Technology, Poland <br/>
+👨🏻‍💻 A passionate Fullstack Developer <br/>
+🧑🏻‍🎓 3rd year student of Computer Science at the Poznan University of Technology, Poland <br/>
 🔭 Currently working on **Fitness tracker website** <br/>
 💭 Currently learning about **Spring Boot & React** <br/>
 
@@ -22,5 +22,5 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wkasprzak&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-taupe.vercel.app/api/top-langs/?username=wkasprzak&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
