@@ -1,10 +1,9 @@
-# Hi 👋, I'm Wojtek! 
-👨🏻‍💻 A passionate Fullstack Developer <br/>
+# 👋 Hi, I'm Wojtek! 
+👨🏻‍💻 A passionate Fullstack Developer with a strong foundation in object-oriented programming, databases and algorithms <br/>
 🧑🏻‍🎓 3rd year student of Computer Science at the Poznan University of Technology, Poland <br/>
+📱 A member of AKAI as one of coordinators in the Social Media and Marketing Team <br/>
 🔭 Currently working on **Fitness tracker website** <br/>
 💭 Currently learning about **Spring Boot & React** <br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=wkasprzak&theme=dark&hide_border=false)<br/>
 
 # 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -22,5 +21,5 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-taupe.vercel.app/api/top-langs/?username=wkasprzak&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=wkasprzak&theme=dark&hide_border=false) ![](https://github-readme-taupe.vercel.app/api/top-langs/?username=wkasprzak&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
