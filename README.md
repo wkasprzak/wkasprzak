@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Wojtek! 
-👨🏻‍💻 A passionate Fullstack Developer with a strong foundation in object-oriented programming, databases and algorithms <br/>
+👨🏻‍💻 A passionate Fullstack Developer <br/>
 🧑🏻‍🎓 3rd year student of Computer Science at the Poznan University of Technology, Poland <br/>
 📱 A member of AKAI, serving as one of the coordinators in the Social Media and Marketing Team <br/>
 🔭 Currently working on **Fitness tracker website** <br/>
