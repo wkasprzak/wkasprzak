@@ -1,14 +1,16 @@
-## Hi, I'm Wojtek 👋
-👨🏻‍💻 A passionate **Fullstack Developer** <br/>
-🧑🏻‍🎓 3rd year student of Computer Science at the **Poznan University of Technology**, Poland <br/>
-🔭 Currently working on **Fitness tracker website** <br/>
-💭 Currently learning about **Spring Boot & React** <br/>
+<h1 align="center">Hi, I'm Wojtek 👋</h1>
+<p align="center">
+    <b>Fullstack Developer</b> passionate about building modern apps & efficient backend systems.<br/>
+    🎓 4th-year Computer Science student at <b>Poznan University of Technology</b>, Poland<br/>
+    💼 <b>Intern at IT Integro</b>
+</p>
 
 ## Tech Stack 💻
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![AL](https://img.shields.io/badge/AL-1E1E1E?style=for-the-badge&logo=microsoft&logoColor=00B7C3)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -35,5 +37,5 @@
 </table>
 
 ## Contact Me ✉️
-[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:kasprzak.wojtek2003@gmail.com)[<img align="left" alt="linked-in" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wkasprzak/)<br>
+[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:wojciech.kasprzak03@gmail.com)
 <br>
