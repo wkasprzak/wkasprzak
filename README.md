@@ -1,11 +1,10 @@
-<h1 align="center">Hi, I'm Wojtek 👋</h1>
+<h1 align="center">Hi, I'm Wojciech 👋</h1>
 <p align="center">
-    <b>Fullstack Developer</b> passionate about building modern apps & efficient backend systems.<br/>
-    🎓 4th-year Computer Science student at <b>Poznan University of Technology</b>, Poland<br/>
-    💼 <b>Intern at IT Integro</b>
+    <b>Developer</b> passionate about backend architectures, distributed systems & high-performance computing.<br/>
+    🎓 MSc Advanced Computing Student @ <b>King's College London</b>, United Kingdom
 </p>
 
-## Tech Stack 💻
+## Frequently Used Technologies 💻
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![AL](https://img.shields.io/badge/AL-1E1E1E?style=for-the-badge&logo=microsoft&logoColor=00B7C3)
